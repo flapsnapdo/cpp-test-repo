@@ -1,0 +1,3 @@
+/Users/alimahovalejla/cpp-test-repo/cmake-build-debug/CMakeFiles/cpp_test_repo.dir
+/Users/alimahovalejla/cpp-test-repo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alimahovalejla/cpp-test-repo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
